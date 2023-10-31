@@ -5,7 +5,7 @@
 - 🔭 I’m currently working a few projects at the moment, will be uploading them here once compleated.
 
 <h3> Certifications: </h3>
-  <h4>-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7VGNSM8WG8BJ">Google Cybersecurity Professional </a></h4>
+  <h4>- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7VGNSM8WG8BJ">Google Cybersecurity Professional </a></h4>
   - Working on obtaining the Sec+ and Splunk Core Certified User Certification
 
 <h5> 🤳 Connect with me:</h5>
