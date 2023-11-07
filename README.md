@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <a href="https://github.com/RujulChaudhari/ActiveDirectoryLab/tree/main">Active Directory Home Lab </a><br>
-- Currently working on a SIEM project, will post here once it's completed.
+- <a href="https://github.com/RujulChaudhari/Azure-Sentinel_AttackMap/tree/main">Azure Sentinel Home Lab </a><br>
 
 <h3> Certifications: </h3>
   <h4>- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7VGNSM8WG8BJ">Google Cybersecurity Professional </a></h4>
