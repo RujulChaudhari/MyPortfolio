@@ -4,7 +4,7 @@
 
 - <a href="https://github.com/RujulChaudhari/ActiveDirectoryLab/tree/main">Active Directory Home Lab </a><br>
 - <a href="https://github.com/RujulChaudhari/Azure-Sentinel_AttackMap/tree/main">Azure Sentinel Home Lab </a><br>
-- <a href="https://github.com/RujulChaudhari/Azure-Sentinel_AttackMap/tree/main">Password Strength Checker Project </a><br>
+- <a href="https://github.com/RujulChaudhari/Password-Strength-Checker">Password Strength Checker Project </a><br>
 
 <h3> Certifications: </h3>
   <h4>- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7VGNSM8WG8BJ">Google Cybersecurity Professional </a></h4>
