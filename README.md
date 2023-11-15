@@ -9,7 +9,7 @@
 <h2> VSCode Projects:</h2>
 
 - <a href="https://github.com/RujulChaudhari/Password-Strength-Checker">Password Strength Checker Project </a>
-- Network Scanner (coming soom)
+- <a href="https://github.com/RujulChaudhari/NetworkScanner/tree/main">Password Strength Checker Project </a>
 
 <h4> Certifications: </h4>
   <h5>- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7VGNSM8WG8BJ">Google Cybersecurity Professional </a></h5>
