@@ -4,7 +4,7 @@
 
 - <a href="https://github.com/RujulChaudhari/ActiveDirectoryLab/tree/main">Active Directory Home Lab </a><br>
 - <a href="https://github.com/RujulChaudhari/Azure-Sentinel_AttackMap/tree/main">Azure Sentinel Home Lab </a><br>
-- <a href="https://github.com/RujulChaudhari/Vulnerability-Management-Home-Lab">Nessue Vulnerability Management Lab </a><br>
+- <a href="https://github.com/RujulChaudhari/Vulnerability-Management-Home-Lab">Nessus Vulnerability Management Lab </a><br>
 
 
 <h2> VSCode Projects:</h2>
