@@ -2,9 +2,10 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- <a href="https://github.com/RujulChaudhari/ActiveDirectoryLab/tree/main">Active Directory Home Lab </a><br>
-- <a href="https://github.com/RujulChaudhari/Azure-Sentinel_AttackMap/tree/main">Azure Sentinel Home Lab </a><br>
+- <a href="https://github.com/RujulChaudhari/ActiveDirectoryLab">Active Directory Home Lab </a><br>
+- <a href="https://github.com/RujulChaudhari/Azure-Sentinel_AttackMap">Azure Sentinel Home Lab </a><br>
 - <a href="https://github.com/RujulChaudhari/Vulnerability-Management-Home-Lab">Nessus Vulnerability Management Lab </a><br>
+- <a href="https://github.com/RujulChaudhari/Wazuh-SEIM">Nessus Vulnerability Management Lab </a><br>
 
 
 <h2> VSCode Projects:</h2>
