@@ -12,7 +12,7 @@
 
 - <a href="https://github.com/RujulChaudhari/Password-Strength-Checker">Password Strength Checker Project </a>
 - <a href="https://github.com/RujulChaudhari/NetworkScanner/tree/main">Network Scanner Project </a>
-- <a href="https://github.com/RujulChaudhari/NetworkScanner/tree/main">File Integrity Checker </a>
+- <a href="https://github.com/RujulChaudhari/MD5_Checker/tree/main">File Integrity Checker </a>
 
 <h4> Certifications: </h4>
   <h5>- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7VGNSM8WG8BJ">Google Cybersecurity Professional </a></h5>
