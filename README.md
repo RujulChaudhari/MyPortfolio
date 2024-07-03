@@ -20,7 +20,10 @@
 - <a href="https://github.com/RujulChaudhari/MD5_Checker/tree/main">File Integrity Checker </a>
 
 <h4> Certifications: </h4>
-  <h5>- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7VGNSM8WG8BJ">Google Cybersecurity Professional </a></h5>
+  <h5>- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7VGNSM8WG8BJ">Google Cybersecurity Professional Certification </a></h5>
+  <h5>- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7LWJUPVNAKHH">Palo Alto Networks Certification </a></h5>
+  <h5>- <a href="https://i.imgur.com/TcRxNdq.png">Security Operations Center 1 Certification </a></h5>
+  <h5>- <a href="https://i.imgur.com/LzVBOrk.png">DevSecOps Certification </a></h5>
   - Working on obtaining the Sec+ and Splunk Core Certified User Certification
 
 <h6> 🤳 Connect with me:</h6>
