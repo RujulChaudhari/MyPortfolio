@@ -28,7 +28,7 @@
 
 <h6> 🤳 Connect with me:</h6>
 
-<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+<a href="https://www.linkedin.com/in/rujul-chaudhari/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="Logo" width="22px" height="22px">
 </a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="Logo" width="22px" height="22px">
