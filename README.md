@@ -28,6 +28,11 @@
 
 <h6> 🤳 Connect with me:</h6>
 
+<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="Logo" width="22px" height="22px">
+</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="Logo" width="22px" height="22px">
+
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
