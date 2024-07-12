@@ -1,6 +1,6 @@
 <h3>
   Welcome to my Cybersecurity GitHub Portfolio!<br>
-  My name is Rujul Chaudhari, and I am a dedicated <a href="https://www.linkedin.com/in/rujul-chaudhari/">cybersecurity professional</a> with over four years of experience in fortifying IT infrastructures with robust security measures. My goal now is to secure a new position in cybersecurity where 
+  My name is Rujul Chaudhari, and I am a dedicated <a href="https://www.linkedin.com/in/rujul-chaudhari/">cybersecurity professional</a> with 4+ yrs of experience in fortifying IT infrastructures with robust security measures. My goal now is to secure a new position in cybersecurity where 
   I can leverage my skills and experience to protect and enhance IT security systems.
 </h3>
 
