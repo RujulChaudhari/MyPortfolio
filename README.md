@@ -11,6 +11,8 @@
 - <a href="https://github.com/RujulChaudhari/Vulnerability-Management-Home-Lab">Nessus Vulnerability Management Lab </a><br>
 - <a href="https://github.com/RujulChaudhari/Wazuh-SEIM">Wazuh SIEM Lab </a><br>
 - <a href="https://github.com/RujulChaudhari/GeoNetMapper/tree/main"> Network Mapper with GeoLite </a> <br>
+- <a href="https://github.com/RujulChaudhari/Information_Gathering_Tool/tree/main"> Information Gathering Tool </a> <br>
+
 
 
 <h2> VSCode Projects:</h2>
