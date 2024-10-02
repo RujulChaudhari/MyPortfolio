@@ -26,6 +26,9 @@
   <h5>- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7VGNSM8WG8BJ">Google Cybersecurity Professional Certification </a></h5>
   <h5>- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7LWJUPVNAKHH">Palo Alto Networks Certification </a></h5>
   <h5>- <a href="https://coursera.org/share/3816357f8b08dc0af64b844da444520c">IBM Introduction to Cloud Computing Certification </a></h5>
+  <h5>- <a href="https://www.linkedin.com/learning/certificates/d7e1226e917f773f77c1324e87e48519b7c5245e1bf45d6b8e8b52ed8da25a61?trk=share_certificate">System Administration by Microsoft and Linkedin Certification </a></h5>
+  <h5>- <a href="https://www.linkedin.com/learning/certificates/cc786fe7bb75e6379953f79fa6be440175215994d100f071e7adc504449b902e?trk=share_certificate">Cybersecurity by
+Microsoft and LinkedIn Certification </a></h5>
   <h5>- <a href="https://i.imgur.com/TcRxNdq.png">Security Operations Center 1 Certification </a></h5>
   <h5>- <a href="https://i.imgur.com/LzVBOrk.png">DevSecOps Certification </a></h5>
   - Working on obtaining the Sec+ and Splunk Core Certified User Certification
