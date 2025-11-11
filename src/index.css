@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --bg: #0a0a0f;
+  --muted: #94a3b8;
+  --accent: #00FFFF;
+}
+
+html, body, #root { height: 100%; }
+
+body{
+  background: linear-gradient(135deg, var(--bg), #0f1724);
+  color: #e5e7eb;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+
+/* utility tweaks */
+.section-card {
+  @apply rounded-2xl bg-[#081018] border border-slate-800 p-6 shadow-none;
+}
