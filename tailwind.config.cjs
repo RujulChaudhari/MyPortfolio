@@ -7,8 +7,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        accent: "#00FFFF",
-        dark: "#0a0a0f",
+        accent: "#22d3ee",
+        dark: "#070b12",
         light: "#e5e7eb"
       },
       fontFamily: {
@@ -16,10 +16,10 @@ module.exports = {
         mono: ['JetBrains Mono', 'ui-monospace', 'SFMono-Regular']
       },
       backgroundImage: {
-        'gradient-tech': 'linear-gradient(135deg, #0a0a0f 0%, #0f1724 100%)',
+        'site': 'linear-gradient(135deg, #070b12 0%, #101827 62%, #080b10 100%)',
       },
       boxShadow: {
-        glow: '0 6px 30px rgba(0, 255, 255, 0.12)',
+        glow: '0 6px 30px rgba(34, 211, 238, 0.12)',
       }
     },
   },

@@ -2,21 +2,54 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const roles = [
-  { company: 'Celero Commerce', title: 'Security Analyst', date: 'Aug 2022 - Present', bullets: ['Managed and monitored security events','Led incident response and compliance'] },
-  { company: 'FortifyIT', title: 'Cybersecurity Engineer', date: 'Dec 2021 - Aug 2022', bullets: ['Maintained SIEM integrations','Reduced incidents with MFA and encryption'] },
-  { company: 'Unisys', title: 'Security Support Specialist', date: 'Apr 2021 - Dec 2021', bullets: ['Provided remote security support','Documented security incidents'] }
+  {
+    company: 'Celero Commerce',
+    location: 'Rosemont, IL',
+    title: 'Security Analyst',
+    date: 'Aug 2022 - Present',
+    bullets: [
+      'Reduced security incidents 40% by engineering detection rules in Splunk and Azure Sentinel, implementing encryption protocols, and tightening access controls.',
+      'Achieved full PCI DSS and SOC 2 compliance by leading audit preparation, systematic gap analysis, and policy remediation across control objectives.',
+      'Led high-severity incident response investigations, reducing MTTD and MTTR through cross-functional containment and preventive controls.',
+      'Cut enterprise attack surface by enforcing least-privilege access and quarterly access reviews.'
+    ]
+  },
+  {
+    company: 'FortifyIT',
+    location: 'Oak Brook, IL',
+    title: 'Cybersecurity Engineer',
+    date: 'Dec 2021 - Aug 2022',
+    bullets: [
+      'Reduced client security incidents 50% across 15+ organizations by deploying MFA, encryption, and NIST-aligned RBAC.',
+      'Decreased MTTR by 30% by authoring incident runbooks, automating alert triage, and conducting proactive threat hunting.',
+      'Identified and prioritized critical Windows Server vulnerabilities with Nessus, CVSS scoring, and business impact analysis.'
+    ]
+  },
+  {
+    company: 'Unisys',
+    location: 'Chicago, IL (Remote)',
+    title: 'Security Support Specialist',
+    date: 'Apr 2021 - Dec 2021',
+    bullets: [
+      'Maintained 95% customer satisfaction across 100+ security tickets involving authentication, access control, and endpoint protection issues.',
+      'Reduced ticket resolution time 25% by building a structured security knowledge base for Tier I/II incident response triage.'
+    ]
+  }
 ];
 
 export default function Experience() {
   return (
     <section id="experience" className="py-16">
-      <motion.h2
+      <motion.div
         initial={{ opacity: 0, y: 10 }}
-        animate={{ opacity: 1, y: 0 }}
-        className="text-3xl font-semibold"
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true }}
+        transition={{ duration: 0.5 }}
       >
-        Experience
-      </motion.h2>
+        <p className="section-kicker">Professional record</p>
+        <h2 className="section-title">Experience</h2>
+        <p className="section-copy">Focused on measurable security outcomes across payment processing, consulting, and support environments.</p>
+      </motion.div>
 
       <motion.div
         initial="hidden"
@@ -34,20 +67,22 @@ export default function Experience() {
             className="section-card"
             initial={{ opacity: 0, y: 10 }}
             whileInView={{ opacity: 1, y: 0 }}
-            whileHover={{ scale: 1.03, boxShadow: '0 0 15px #00ffff' }}
             viewport={{ once: true }}
             transition={{ duration: 0.5 }}
           >
-            <div className="flex justify-between items-start">
+            <div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
               <div>
-                <h3 className="text-lg font-semibold text-white">{r.title}</h3>
-                <div className="text-slate-400 text-sm">{r.company}</div>
+                <h3 className="text-xl font-semibold text-white">{r.title}</h3>
+                <div className="mt-1 text-sm text-slate-400">{r.company} | {r.location}</div>
               </div>
-              <div className="text-slate-400 text-sm">{r.date}</div>
+              <div className="shrink-0 text-sm font-medium text-cyan-200">{r.date}</div>
             </div>
-            <ul className="mt-3 text-slate-300 text-sm list-disc list-inside">
+            <ul className="mt-5 space-y-3 text-sm leading-6 text-slate-300">
               {r.bullets.map((b, i) => (
-                <li key={i}>{b}</li>
+                <li key={i} className="flex gap-3">
+                  <span className="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-cyan-300" aria-hidden="true" />
+                  <span>{b}</span>
+                </li>
               ))}
             </ul>
           </motion.div>

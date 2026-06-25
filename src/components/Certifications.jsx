@@ -2,33 +2,28 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const certs = [
-  'Splunk Certification – Ongoing',
-  'CompTIA Security+ - Sept 2025',
-  'SOC Fundamentals – April 2025',
-  'Essentials in Cybersecurity – LinkedIn – Sep 2024',
-  'Essentials in System Administration – LinkedIn – Sep 2024',
-  'Palo Alto Networks Cybersecurity Certificate – Coursera – Mar 2024',
-  'SOC1 Certificate – TryHackMe – Jun 2024',
-  'DevSec Ops Certificate – TryHackMe – Jun 2024',
-  'Google Cybersecurity Professional Certificate – Coursera – Oct 2023',
-  'Quantum Security Certificate – Cyber Now – Jan 2025'
+  { name: 'ISACA CISM', detail: 'In progress, expected 2026' },
+  { name: 'CompTIA CySA+', detail: 'November 2025' },
+  { name: 'CompTIA Security+', detail: 'September 2025' },
+  { name: 'SOC Fundamentals', detail: 'April 2025' }
 ];
 
 export default function Certifications() {
   return (
     <section id="certifications" className="py-16">
-      <motion.h2
+      <motion.div
         initial={{ opacity: 0, y: 10 }}
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true }}
         transition={{ duration: 0.6 }}
-        className="text-3xl font-semibold"
       >
-        Certifications
-      </motion.h2>
+        <p className="section-kicker">Credentials</p>
+        <h2 className="section-title">Certifications</h2>
+        <p className="section-copy">Kept intentionally focused on the strongest credentials reflected in the current resume.</p>
+      </motion.div>
 
       <motion.div
-        className="mt-6 flex flex-wrap gap-3"
+        className="mt-8 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4"
         initial="hidden"
         whileInView="visible"
         viewport={{ once: true }}
@@ -39,15 +34,15 @@ export default function Certifications() {
       >
         {certs.map((c) => (
           <motion.div
-            key={c}
-            className="px-4 py-2 rounded-md bg-[#071018] border border-slate-800 text-slate-200 cursor-pointer"
+            key={c.name}
+            className="section-card"
             initial={{ opacity: 0, y: 10 }}
             whileInView={{ opacity: 1, y: 0 }}
-            whileHover={{ scale: 1.05, boxShadow: '0 0 10px #00ffff' }}
             viewport={{ once: true }}
             transition={{ duration: 0.5 }}
           >
-            {c}
+            <h3 className="text-lg font-semibold text-white">{c.name}</h3>
+            <p className="mt-2 text-sm text-slate-400">{c.detail}</p>
           </motion.div>
         ))}
       </motion.div>
